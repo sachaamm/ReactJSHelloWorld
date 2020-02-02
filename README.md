@@ -1,5 +1,5 @@
 ## ReactJS HelloWorld ##
-ReactJS HelloWorld is a quickstart to explore main concepts about React.
+**ReactJS HelloWorld** is a quickstart to explore main concepts about React.
 
 ### Installation ###
 `npm install`
